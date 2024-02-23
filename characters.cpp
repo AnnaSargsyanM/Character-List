@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               characters.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #7
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                March 10, 2023
-//
 //     This program asks user to input alphabetical lowercase letters,
 //     and choose options between 1 and 2. Then outputs the result in the file.
 //     
